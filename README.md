@@ -1,2 +1,3 @@
 # word_img
-save image from word _________ for my friend yifan
+save image from word (.doc or .docx)
+                                                      _________ for my friend yifan
